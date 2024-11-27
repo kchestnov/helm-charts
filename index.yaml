@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  grafana-operator-crds:
+  - apiVersion: v2
+    appVersion: v5.15.1
+    created: "2024-11-27T15:11:21.865441621Z"
+    description: Helper chart to create GrafanaDashboard specs out of plain json
+    digest: 72f1598d8027032c4d980577e1e231d6da6f6a7ffa68708e902d747a88704ba0
+    name: grafana-operator-crds
+    type: application
+    urls:
+    - https://github.com/kchestnov/helm-charts/releases/download/grafana-operator-crds-0.1.0/grafana-operator-crds-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-27T15:11:21.865873407Z"
