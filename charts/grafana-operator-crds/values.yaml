@@ -1,9 +1,4 @@
-dashboards:
-  some_uid:
-    folder_title: production
-    folder_uid: some_uid
-    json: 'some json'
-grafana:
-  name: grafana-prod
-  labels:
-    dashboards: "grafana-prod"
+dashboards: {}
+  # uid:
+  #   folder_title: sync-folder
+  #   json: 'JSON Model'
